@@ -27,7 +27,8 @@
 
 
  
- ![snakkeee](https://raw.githubusercontent.com/alesl10/snk/output/github-contribution-grid-snake-dark.svg)
+![snakkeee](https://raw.githubusercontent.com/alesl10/snk/output/dist/github-contribution-grid-snake-dark.svg)
+
 
 
 
