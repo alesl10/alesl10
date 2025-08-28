@@ -22,7 +22,7 @@
 - 🛠️ I work with frameworks and technologies such as **React, Node.js, NestJS, Next.js, Docker, MongoDB, SQL, MySQL, PostgreSQL, MariaDB, Oracle, Kubernetes, Microservices, and Clean Architecture.**
 - 🔥 I'm always eager to learn and explore new technological advancements.
 - 📫 Feel free to reach out to me at **lopezalexis499@gmail.com**
-- 💼 Connect with me on **LinkedIn:** [Alexis Ariel Lopez](https://www.linkedin.com/in/alexis-ariel-lopez-709965180/)
+- 💼 Connect with me on **LinkedIn:** [Alexis Ariel Lopez](https://www.linkedin.com/in/alexislopezdev/)
 
 
 <div id="user-content-toc">
